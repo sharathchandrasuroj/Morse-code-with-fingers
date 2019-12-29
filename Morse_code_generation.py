@@ -1,6 +1,5 @@
 "@Author: @UdayKiran"
 
-#code for capturing hand and removing backgroud is taken from https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python/
 
 #Importing libraries
 import cv2
