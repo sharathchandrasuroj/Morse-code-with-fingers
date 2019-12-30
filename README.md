@@ -14,13 +14,6 @@
 - press `'b'` to capture the background model (without hand)
 - press `'r'` to reset the background model
 - press `'ESC'` to exit
-# Morse Code generation 
-- After background, capture try to generate morse code
-- Open one finger for the small beep
-- Open two fingers for the long beep
-- Open three fingers to start a new character 
-- Open five fingers to stop the current character
-- Open four fingers to add space
 
 ## What it does
 It tries to capture the **Morse code** pattern and detect the character based on the observed pattern. When we run the Morse_code_generation.py file, Your camera will be opened and you will see a blue bounding box. when you press **b** it will capture the background without your hand first in the blue bounding box,  and it opens 5 windows (Mask, Blur, Ori, Predicted, Test) 
