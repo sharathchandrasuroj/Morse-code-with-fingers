@@ -28,6 +28,6 @@
 ----------------------
 ## References
 
-1. In [Fingers-Detection-using-OpenCV-and-Python](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python)
+1. lzane [Fingers-Detection-using-OpenCV-and-Python](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python)
 
 
