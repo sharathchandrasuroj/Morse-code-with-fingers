@@ -20,7 +20,7 @@ It tries to capture the **Morse code** pattern and detect the character based on
 - **Mask window** will show you the masked image of your hand by removing the background.
 - **Blur Window** will show you the blur grey image of your hand by removing the background.
 - **Ori Window** will show you the Threshold image of your hand.
-- ** Predicted Window** will show the predicted number of fingers opened.
+- **Predicted Window** will show the predicted number of fingers opened.
 - **Test Window** will show the predicted text from morse code. 
  
 - If you open **one finger** it is small beep(Dot in Morse code).
