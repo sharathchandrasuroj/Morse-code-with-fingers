@@ -25,7 +25,7 @@ It tries to capture the **Morse code** pattern and detect the character based on
  
 - If you open **one finger** it is small beep(Dot in Morse code).
 - If you open **Two fingers** it is Long beep(Dash in Morse code).
-- If you open **Three fingers** it is to start capturing for a new character.
+- If you open **Three fingers** it is to start capturing for a new character or reset the current character.
 - If you open **Five fingers** it is to Stop capturing and predict the character from morse code pattern.
 - If you open **Four fingers** it is to add space between characters.
 
