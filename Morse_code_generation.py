@@ -97,6 +97,7 @@ class CaptureHand():
                     final_text+=" "
                 if class_pred == "3": #To start cpturing the fingures for next morse character
                     start_new_char = True
+                    store_predicted_classes=[]
                 if start_new_char and class_pred=="5": #To stop cpturing the fingures for current morse character and predict the morse code for captured fingers
                     char = ""
                     store_predicted_classes = [x[0] for x in groupby(store_predicted_classes)] #Remove consecutive duplicates
